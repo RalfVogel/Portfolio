@@ -2,12 +2,20 @@
 
 # HTML
 
+index.html Startseite Portfolio
+lebenslauf.html Startseite Kurzportait
+
 # CSS
+
+style.css Startseite Portfolio
+lebenslauf.css Startseite Kurzportait
 
 <!-- margin: 0 auto;
 display: block; -->
 
 # JavaScript
+
+script.js Startseite Portfolio
 
 # Ralf´s Projekt
 
