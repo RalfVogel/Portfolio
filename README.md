@@ -5,10 +5,14 @@
 index.html Startseite Portfolio
 lebenslauf.html Startseite Kurzportait
 
+index2.html Startseite Portfolio 2
+
 # CSS
 
 style.css Startseite Portfolio
 lebenslauf.css Startseite Kurzportait
+
+style2.css Startseite Portfolio 2
 
 <!-- margin: 0 auto;
 display: block; -->
@@ -16,6 +20,8 @@ display: block; -->
 # JavaScript
 
 script.js Startseite Portfolio
+
+script2.js Startseite Portfolio 2
 
 # Ralf´s Projekt
 

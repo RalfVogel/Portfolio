@@ -20,6 +20,7 @@ body {
   align-items: center;
   transition: 1s;
 }
+
 .navigation.active {
   left: 0;
 }
@@ -66,6 +67,7 @@ body {
 .navlink ul li a:hover {
   color: #2196f3;
 }
+
 .sec {
   position: relative;
   left: 0;
@@ -202,6 +204,7 @@ footer {
   color: #777;
   letter-spacing: 1px;
 }
+
 /* Now, make it responsive */
 
 @media (max-width: 991px) {
