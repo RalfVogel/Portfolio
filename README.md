@@ -6,6 +6,7 @@ index.html Startseite Portfolio
 lebenslauf.html Startseite Kurzportait
 
 index2.html Startseite Portfolio 2
+Responsive und Dark Mode
 
 # CSS
 
