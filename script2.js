@@ -8,3 +8,10 @@ toggle.onclick = function () {
   navigation.classList.toggle("active");
   main.classList.toggle("active");
 };
+// Fix menu active class issue for mobile devices
+function toogleMenu() {
+  let navigation = document.querySelector(".navigation");
+  let main = document.querySelector(".main");
+  navigation.classList.remove("active");
+  main.classList.remove("active");
+}
