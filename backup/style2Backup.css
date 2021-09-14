@@ -490,44 +490,6 @@ p {
   padding: 10px 40px;
   text-align: center;
 }
-footer {
-  position: relative;
-  margin-top: 80px;
-  /* bottom: 0; */
-  padding: 15px 15px;
-  text-align: center;
-}
-
-footer li {
-  display: inline-block;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-footer li a {
-  padding: 5px;
-  margin: 15px 15px;
-  align-items: center;
-  text-decoration: none;
-  color: var(--black);
-  font-size: 1.2em;
-  opacity: 0.5;
-}
-footer li p {
-  padding: 5px;
-  margin: 15px 15px;
-  align-items: center;
-  text-decoration: none;
-  color: var(--black);
-  font-size: 1em;
-  opacity: 0.5;
-}
-
-.dark footer li a:hover {
-  background: #2196f3;
-}
-footer li a:hover {
-  opacity: 1;
-}
 
 /* Dark and Light Mode Switch */
 .themeSwitch {
