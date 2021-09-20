@@ -7,6 +7,7 @@ body {
     "nav" auto
     "main" 1fr
     "footer" auto
+    "div" auto
     / 1fr;
 }
 
@@ -16,6 +17,7 @@ body {
       "header header" auto
       "nav main" 1fr
       "nav footer" auto
+      "nav div" auto
       / 12em 1fr;
   }
 }
@@ -32,6 +34,9 @@ main {
 footer {
   grid-area: footer;
 }
+div {
+  grid-area: div;
+}
 
 /*  show  */
 body {
@@ -42,7 +47,8 @@ body {
 header,
 nav,
 main,
-footer {
+footer,
+div {
   /* background: var(--background); */
   background: #f8f8f8;
   padding: 1em;
